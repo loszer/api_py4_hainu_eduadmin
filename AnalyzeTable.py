@@ -7,19 +7,17 @@
 
 """analyze the table of stdudent from the specific page or url"""
 
-#use a list var contains the content of courses in the table
+# use a list var contains the content of courses in the table
 _table = []
 
+
 def getTale():
-	return _table
+    return _table
+
 
 def print2pdf():
-	#print the table to pdf and send it to user's mailbox
-	pass
+    pass
 
-def analyze():
-	pass
 
 def _analyzetable(spcific_url):
-	#extract the core data of spcific page
-	pass
+    pass
