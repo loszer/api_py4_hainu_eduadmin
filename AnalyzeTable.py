@@ -17,8 +17,11 @@ def print2pdf():
 	#print the table to pdf and send it to user's mailbox
 	pass
 
+
 def analyze():
 	pass
+
+
 
 def _analyzetable(spcific_url):
 	#extract the core data of spcific page
